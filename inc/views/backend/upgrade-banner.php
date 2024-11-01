@@ -1,0 +1,1 @@
+<a href="https://1.envato.market/Z3Z6K" target="_blank"><img class="upgrade-image" src="<?php echo WPSF_URL . '/images/wpsf-backend-banner-light-hr-btn.png'; ?>" /></a>
